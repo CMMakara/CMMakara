@@ -17,7 +17,7 @@
 const makara = {
   role      : "Junior IT Developer",
   location  : "📍 Phnom Penh, Cambodia",
-  learning  : ["React", "Node.js", "Docker", "Cloud Fundamentals"],
+  learning  : ["React", "vue" ,"Node.js",],
   interests : ["Web Development", "Open Source", "UI/UX", "Automation"],
   funFact   : "I debug with console.log and I'm proud of it 😄",
 };
